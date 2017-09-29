@@ -1,3 +1,8 @@
+/**
+ * Simple dbOPerations file to carry out NoSql db operations
+ * 
+ */
+
 var MongoClient = require('mongodb').MongoClient;
 var url = "mongodb://localhost:27017/photos";
 
