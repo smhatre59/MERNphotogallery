@@ -4,7 +4,7 @@ Brief outline
 
 This is a simple application to display photos
 
-Contents:-
+Contents:-     
 1)A NodeJs/Express server and Api server(MongoDb as backend database)  
 2)A reactjs client application to display photos  
 
